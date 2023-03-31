@@ -43,6 +43,23 @@
 .container
 {
   background-color: bisque;
-  margin: 1rem;
+  margin-left: 6rem;
   padding: 10px;
+  min-height: 100vh;
+  float: none;
+
+
+  
+
+}
+.slidehead{
+  color:red;
+}
+.card{
+  width: 20rem;
+  display:inline-flex;
+  margin:10px;
+}
+.cardcontainer{
+  margin-left: 2rem;
 }
